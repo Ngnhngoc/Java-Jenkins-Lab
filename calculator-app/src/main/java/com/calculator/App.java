@@ -19,6 +19,6 @@ public class App {
         System.out.println("Phep nhan (10*5) = " + calc.multiply(10, 5));
         System.out.println("Phep chia (10/5) = " + calc.divide(10, 5));
         System.out.println("===========================");
-        System.out.println("Ngoc se dau mon nay ! "));
+        System.out.println("Ngoc se dau mon nay ! ");
     }
 }
